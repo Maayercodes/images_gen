@@ -4,4 +4,4 @@ python-dotenv
 ipywidgets
 gradio
 fastapi
-unicorn
+uvicorn
